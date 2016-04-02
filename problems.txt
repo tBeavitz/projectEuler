@@ -1,0 +1,116 @@
+#This File contains Project Euler Problem text used to determine number of solutions and the text for each problem.
+
+
+#This Is Project Euler Problem #1
+00001
+%Find the sum of all the multiples of 3 or 5 below 1000.
+
+
+#This Is Project Euler Problem #2
+00002
+%By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
+
+
+#This Is Project Euler Problem #3
+00003
+%What is the largest prime factor of the number 600851475143 ?
+
+
+#This Is Project Euler Problem #4
+00004
+%Find the largest palindrome made from the product of two 3-digit numbers.
+
+
+#This Is Project Euler Problem #5
+00005
+%What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
+
+#This Is Project Euler Problem #6
+00006
+%Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+
+
+#This Is Project Euler Problem #7
+00007
+%What is the 10001st prime number?
+
+
+#This Is Project Euler Problem #8
+00008
+%Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
+
+
+#This Is Project Euler Problem #9
+00009
+%There exists exactly one Pythagorean triplet for which a + b + c = 1000; Find the product abc.
+
+
+#This Is Project Euler Problem #10
+00010
+%Find the sum of all the primes below two million.
+
+
+#This Is Project Euler Problem #11
+00011
+%What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20x20 grid?
+
+
+#This Is Project Euler Problem #12
+00012
+%What is the value of the first triangle number to have over five hundred divisors?
+
+
+#This Is Project Euler Problem #13
+00013
+%Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
+
+
+#This Is Project Euler Problem #14
+00014
+%Which starting number, under one million, produces the longest chain?
+
+
+#This is Project Euler Problen #15
+00015
+%How many such routes, only being able to move to the right and down, are there through a 20x20 grid?
+
+
+#This is Project Euler Problen #16
+00016
+%What is the sum of the digits of the number 2^1000?
+
+
+#This is Project Euler Problem #17
+00017
+%If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, how many letters would be used?
+
+
+#This is Project Euler Problem #18
+00018
+%Find the maximum total from top to bottom of the triangle?
+
+
+#This is Project Euler Problem #19
+00019
+%How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?
+
+#This is Project Euler Problem #20
+00020
+%Find the sum of the digits in the number 100!
+
+#This is Project Euler Problem #21
+00021
+%Evaluate the sum of all the amicable numbers under 10000.
+
+#This is Project Euler Problem #22
+00022
+%What is the total of all the name scores in the file?
+
+#This is Project Euler Problem #23
+00023
+%Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.
+
+#This is Project Euler Problem #24
+00024
+%What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9?
