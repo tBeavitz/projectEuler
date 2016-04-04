@@ -84,6 +84,7 @@ class eulerProblemInfo(object):
 		self.eulerParams[22] = 'euler22.txt'
 		self.eulerParams[23] = 28123
 		self.eulerParams[24] = {'charList': [0,1,2,3,4,5,6,7,8,9], "permNum" : 1000000}
+		self.eulerParams[25] = 1000
 
 		self.buildEuler8Param(self.files['euler8'])
 		self.buildEuler11Param(self.files['euler11'])

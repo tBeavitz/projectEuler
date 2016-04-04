@@ -208,6 +208,11 @@ def projectEuler(isTest, problemNumber):
 
 		return eulFunc.lexicographicPerm(paramDic['charList'], paramDic['permNum'])
 
+	def euler25(limit):
+		
+		return eulFunc.getFibIndexWithLength(limit)
+
+
 	print(problemSep)
 	print("Number of completed problems: ", info.problemsSolved)
 	print(problemSep)
@@ -258,12 +263,9 @@ isTestRun = False
 problemNumber = 0
 
 for arg in sys.argv:
-	print(arg)
 	if(str(arg).lower() == "test"):
-		print("isTest!")
 		isTestRun = True
 	elif(arg.isdigit()):
-		print("Number Assigned")
 		problemNumber = int(arg)
 
 if(isTestRun):

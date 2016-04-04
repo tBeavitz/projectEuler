@@ -26,6 +26,28 @@ def fibR(x):
 		return 1
 	return fibR(x-1)+fibR(x-2)
 
+# Fibonacci Sequence Generator 
+def fibGen():
+	a,b = 0,1
+	yield a
+	yield b
+	while True:			
+		yield a+b
+		a,b = b, a+b
+
+# Returns the nth(index) Fibonacci Number
+	# index must be > 2
+def getFibAtIndex(index):
+	phi = (1+math.sqrt(5))/2
+
+	return round((1/math.sqrt(5)) * ((phi ** index) - ((phi - 1) ** index)))
+
+# Return the Index of the First Fibonacci Number that has limit digits
+def getFibIndexWithLength(limit):
+	phi = (1+math.sqrt(5))/2
+
+	return round((limit-1 + math.log10(5)/2)/math.log10(phi))
+
 # Returns Array of factors of x
 def getFactors(x):
 	factors = []
